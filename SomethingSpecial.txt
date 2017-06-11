@@ -1,3 +1,1 @@
 Some Pig!
-
-This is some new text, but I commit it too early.
