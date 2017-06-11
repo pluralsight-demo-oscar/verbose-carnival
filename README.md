@@ -5,6 +5,10 @@
 Secially, we are trying to fix some bugs related to that.
 Let's continue writing here until we have something worth committing.
 
+## Something Important
+
+## Conclusion
+
 ## Introduction
 some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! 
 
@@ -12,12 +16,5 @@ some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Int
 
 
 some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! some Intro! 
-
-
-
-
-## Something Important
-
-## Conclusion
 
 ## How you can contribute
